@@ -1,3 +1,4 @@
+#include <algorithm>
 #include "OrbitalElements.h"
 
 namespace orbit {
